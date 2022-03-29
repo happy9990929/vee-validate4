@@ -1,4 +1,4 @@
-# vee-validate4
+# vee-validate4 & vue3
 
 ## Project setup
 ```

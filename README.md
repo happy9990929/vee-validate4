@@ -1,19 +1,3 @@
-# vee-validate4 & vue3
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+vee-validate4 表單驗證應用
+(目前排版有點醜😅，有空再來調整樣式)
+https://happy9990929.github.io/vee-validate4/
